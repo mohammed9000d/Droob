@@ -1,0 +1,42 @@
+/* Tablet */
+
+@media only screen and (min-width: 768px) {}
+
+
+/* Desktop */
+
+@media only screen and (min-width: 1200px) {
+    #timer-section {
+        margin-top: 125px;
+        margin-bottom: 180px;
+    }
+    #timer-section .hero-text h2 {
+        font-size: 50px;
+    }
+    #timer-section .hero-text p {
+        font-size: 22px;
+    }
+    #timer-section .timer {
+        margin-top: 125px;
+    }
+    #timer-section .timer p {
+        font-size: 28px;
+    }
+    #timer-section .timer span {
+        font-size: 122px;
+    }
+    #main-footer span {
+        font-size: 20px;
+    }
+    #timer-section .timer .col-3 {
+        width: 0px;
+        height: 154.54px;
+        background: transparent;
+        border-left: 1px solid #cecece;
+        ‏
+    }
+    #main-footer {
+        position: relative;
+        bottom: 0;
+    }
+}
